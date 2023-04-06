@@ -1,0 +1,16 @@
+
+
+.channel-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.videos-box{
+    
+    justify-content: center;
+    padding: 10px;
+    
+}
+

@@ -1,0 +1,21 @@
+.box1{
+    box-shadow: none;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 320px;
+    width:320px ;
+}
+
+
+  .cardmedia{
+border-radius: 50%;
+height: 180px;
+width: 180px;
+margin-bottom: 2px;
+border: 1px solid #e3e3e3;
+
+  }
+
+ 

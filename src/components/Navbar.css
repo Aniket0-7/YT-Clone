@@ -1,0 +1,14 @@
+.searchbar{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
+}
+
+@media screen and (max-width:480px) {
+    .searchbar{
+        margin-right: 0;
+       
+    }
+}
+
